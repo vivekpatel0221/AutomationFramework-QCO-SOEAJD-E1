@@ -75,7 +75,6 @@ public class CreateContactWithOrganizationTest extends BaseClass {
     public void demo()
     {
     	System.out.println("This is demo");
-    	System.out.println("Vivek Comitted");
 
     }
 }
